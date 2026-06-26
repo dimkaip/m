@@ -576,19 +576,18 @@
           οικογενειακής και πραγματικής κατάστασης του ενδιαφερομένου.
         </p>
 
- <div class="contact">
+        <div class="contact">
           <p>
             Επικοινωνία:
             <br>
-            <strong>Ονοματεπώνυμο / Φορέας:</strong> Δημήτριος Μ. Καΐπης, Πολιτικός Μηχανικός ΑΠΘ & Μηχανικός του Λογισμικού
+            <strong>Ονοματεπώνυμο / Φορέας:</strong> [ΣΥΜΠΛΗΡΩΣΤΕ]
             <br>
-            <strong>Τηλέφωνο:</strong> 6973751829
+            <strong>Τηλέφωνο:</strong> [ΣΥΜΠΛΗΡΩΣΤΕ]
             <br>
-            <strong>Email:</strong> <a href="mailto:dim.kaipis@gmail.com">dim.kaipis@gmail.com</a>
+            <strong>Email:</strong> <a href="mailto:info@example.com">info@example.com</a>
           </p>
-        </div>       
-       
-       </section>
+        </div>
+      </section>
 
       <footer>
         <p>
