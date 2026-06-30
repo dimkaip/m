@@ -1,0 +1,42 @@
+@startuml
+title Από τον Πολίτη στον Οργανωμένο Φάκελο Άμυνας
+
+skinparam backgroundColor #FFFFFF
+skinparam shadowing false
+skinparam roundcorner 15
+skinparam defaultFontName DejaVu Sans
+
+actor "Πολίτης" as Citizen
+rectangle "Χαμηλή Είσοδος\n30€ - 50€" as Entry
+rectangle "Άνοιγμα Φακέλου" as File
+rectangle "Βασική Τεκμηρίωση\n150€ - 250€" as Basic
+rectangle "Πλήρης Μελέτη\n300€ - 500€" as Full
+rectangle "Ειδικός Δικαστικός Φάκελος\n700€+" as Court
+rectangle "Δικηγόρος\nΝομική Ευθύνη" as Lawyer
+rectangle "Συλλογική Δράση\nΠολλοί πολίτες - κοινό κόστος" as Collective
+rectangle "Συνδρομή\n10€ - 20€ / μήνα" as Subscription
+
+Citizen --> Entry
+Entry --> File
+File --> Basic
+Basic --> Full
+Full --> Court
+Court --> Lawyer
+
+File --> Collective
+Citizen --> Subscription
+Subscription --> File
+
+note bottom of Lawyer
+Ο δικηγόρος δεν υποκαθίσταται.
+Αντίθετα, παίρνει οργανωμένο υλικό
+και κρατά την πλήρη νομική ευθύνη.
+end note
+
+note bottom of Collective
+Το μεγάλο οικονομικό ενδιαφέρον
+δεν είναι η ακριβή ατομική μελέτη,
+αλλά η μαζική οργάνωση φακέλων.
+end note
+
+@enduml

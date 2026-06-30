@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="897px" preserveAspectRatio="none" style="width:501px;height:897px;" version="1.1" viewBox="0 0 501 897" width="501px" zoomAndPan="magnify"><defs/><g><text fill="#000000" font-family="DejaVu Sans" font-size="18" lengthAdjust="spacingAndGlyphs" textLength="472" x="17.5" y="16.708">Από τον Πολίτη στον Οργανωμένο Φάκελο Άμυνας</text><!--MD5=[659b8b1ceb61a6b81a03e9899a798131]
+entity Citizen--><ellipse cx="248.5" cy="38.4531" fill="#FEFECE" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M248.5,46.4531 L248.5,73.4531 M235.5,54.4531 L261.5,54.4531 M248.5,73.4531 L235.5,88.4531 M248.5,73.4531 L261.5,88.4531 " fill="none" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="DejaVu Sans" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56" x="220.5" y="103.9482">Πολίτης</text><!--MD5=[5ec98094e9deade887686ad232090266]
+entity Entry--><rect fill="#FEFECE" height="52.5938" rx="7.5" ry="7.5" style="stroke: #000000; stroke-width: 1.5;" width="134" x="96.5" y="166.9531"/><text fill="#000000" font-family="DejaVu Sans" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="114" x="106.5" y="189.9482">Χαμηλή Είσοδος</text><text fill="#000000" font-family="DejaVu Sans" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="67" x="106.5" y="206.2451">30€ - 50€</text><!--MD5=[d916329757364bfd539ac583f6edc283]
+entity File--><rect fill="#FEFECE" height="36.2969" rx="7.5" ry="7.5" style="stroke: #000000; stroke-width: 1.5;" width="144" x="176.5" y="279.9531"/><text fill="#000000" font-family="DejaVu Sans" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="124" x="186.5" y="302.9482">Άνοιγμα Φακέλου</text><!--MD5=[b1b70a21cc1a89c1f0247c34cac46a4e]
+entity Basic--><rect fill="#FEFECE" height="52.5938" rx="7.5" ry="7.5" style="stroke: #000000; stroke-width: 1.5;" width="161" x="53" y="375.9531"/><text fill="#000000" font-family="DejaVu Sans" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="141" x="63" y="398.9482">Βασική Τεκμηρίωση</text><text fill="#000000" font-family="DejaVu Sans" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="85" x="63" y="415.2451">150€ - 250€</text><!--MD5=[cb38c4e549f706847562807b96d110b5]
+entity Full--><rect fill="#FEFECE" height="52.5938" rx="7.5" ry="7.5" style="stroke: #000000; stroke-width: 1.5;" width="129" x="69" y="489.9531"/><text fill="#000000" font-family="DejaVu Sans" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="109" x="79" y="512.9482">Πλήρης Μελέτη</text><text fill="#000000" font-family="DejaVu Sans" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="85" x="79" y="529.2451">300€ - 500€</text><!--MD5=[f80582da0d263d440f084edff31d6082]
+entity Court--><rect fill="#FEFECE" height="52.5938" rx="7.5" ry="7.5" style="stroke: #000000; stroke-width: 1.5;" width="218" x="24.5" y="603.9531"/><text fill="#000000" font-family="DejaVu Sans" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="198" x="34.5" y="626.9482">Ειδικός Δικαστικός Φάκελος</text><text fill="#000000" font-family="DejaVu Sans" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="48" x="34.5" y="643.2451">700€+</text><!--MD5=[6b773fa9a9333a976be4aa8d2e9a0c75]
+entity Lawyer--><rect fill="#FEFECE" height="52.5938" rx="7.5" ry="7.5" style="stroke: #000000; stroke-width: 1.5;" width="125" x="71" y="716.9531"/><text fill="#000000" font-family="DejaVu Sans" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="73" x="81" y="739.9482">Δικηγόρος</text><text fill="#000000" font-family="DejaVu Sans" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="105" x="81" y="756.2451">Νομική Ευθύνη</text><!--MD5=[02e45187577d57c748b4e5c08ac9864b]
+entity Collective--><rect fill="#FEFECE" height="52.5938" rx="7.5" ry="7.5" style="stroke: #000000; stroke-width: 1.5;" width="231" x="249" y="375.9531"/><text fill="#000000" font-family="DejaVu Sans" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="118" x="259" y="398.9482">Συλλογική Δράση</text><text fill="#000000" font-family="DejaVu Sans" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="211" x="259" y="415.2451">Πολλοί πολίτες - κοινό κόστος</text><!--MD5=[4a52932e87c05afea63f6d60a0835fd7]
+entity Subscription--><rect fill="#FEFECE" height="52.5938" rx="7.5" ry="7.5" style="stroke: #000000; stroke-width: 1.5;" width="137" x="266" y="166.9531"/><text fill="#000000" font-family="DejaVu Sans" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="70" x="276" y="189.9482">Συνδρομή</text><text fill="#000000" font-family="DejaVu Sans" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="117" x="276" y="206.2451">10€ - 20€ / μήνα</text><path d="M6,837.4531 L6,877.8516 A7.5,7.5 0 0 0 13.5,885.3516 L253.5,885.3516 A7.5,7.5 0 0 0 261,877.8516 L261,839.9531 L251,829.9531 L137.5,829.9531 L133.5,770.1531 L129.5,829.9531 L13.5,829.9531 A7.5,7.5 0 0 0 6,837.4531 " fill="#FBFB77" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M251,829.9531 L251,836.2031 A3.75,3.75 0 0 0 254.75,839.9531 L261,839.9531 L251,829.9531 " fill="#FBFB77" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="DejaVu Sans" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="208" x="12" y="847.02">Ο δικηγόρος δεν υποκαθίσταται.</text><text fill="#000000" font-family="DejaVu Sans" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="234" x="12" y="862.1528">Αντίθετα, παίρνει οργανωμένο υλικό</text><text fill="#000000" font-family="DejaVu Sans" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="232" x="12" y="877.2856">και κρατά την πλήρη νομική ευθύνη.</text><path d="M240.5,496.4531 L240.5,536.8516 A7.5,7.5 0 0 0 248,544.3516 L481,544.3516 A7.5,7.5 0 0 0 488.5,536.8516 L488.5,498.9531 L478.5,488.9531 L368.5,488.9531 L364.5,429.1531 L360.5,488.9531 L248,488.9531 A7.5,7.5 0 0 0 240.5,496.4531 " fill="#FBFB77" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M478.5,488.9531 L478.5,495.2031 A3.75,3.75 0 0 0 482.25,498.9531 L488.5,498.9531 L478.5,488.9531 " fill="#FBFB77" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="DejaVu Sans" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="216" x="246.5" y="506.02">Το μεγάλο οικονομικό ενδιαφέρον</text><text fill="#000000" font-family="DejaVu Sans" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="224" x="246.5" y="521.1528">δεν είναι η ακριβή ατομική μελέτη,</text><text fill="#000000" font-family="DejaVu Sans" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="227" x="246.5" y="536.2856">αλλά η μαζική οργάνωση φακέλων.</text><!--MD5=[8c7004b32308c80c5bb35dfe59afa789]
+link Citizen to Entry--><path d="M222.3,107.0131 C209.98,124.9131 195.51,145.9531 184,162.6631 " fill="none" id="Citizen-&gt;Entry" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="181.14,166.8231,189.5349,161.6729,183.9726,162.7029,182.9426,157.1406,181.14,166.8231" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[95c3b2f2ac1a360ae52499ee5b1feefe]
+link Entry to File--><path d="M184.73,220.0531 C198.96,237.2231 217.49,259.5531 230.9,275.7231 " fill="none" id="Entry-&gt;File" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="234.19,279.7031,231.522,270.2225,230.9975,275.855,225.365,275.3305,234.19,279.7031" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[fd399725e512ce5d54ab8650d03b4b92]
+link File to Basic--><path d="M229.25,316.1131 C212.04,331.4531 186.45,354.2631 166.05,372.4331 " fill="none" id="File-&gt;Basic" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="162.31,375.7731,171.6877,372.7634,166.0399,372.4433,166.3601,366.7955,162.31,375.7731" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[2a9fd2ff5f7c7da21c5ee9c6493bce8a]
+link Basic to Full--><path d="M133.5,429.1531 C133.5,445.6531 133.5,467.1831 133.5,484.6131 " fill="none" id="Basic-&gt;Full" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="133.5,489.8731,137.5,480.8731,133.5,484.8731,129.5,480.8731,133.5,489.8731" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[12d7263fc98c5b24f8d93a09729302ba]
+link Full to Court--><path d="M133.5,543.1531 C133.5,559.6531 133.5,581.1831 133.5,598.6131 " fill="none" id="Full-&gt;Court" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="133.5,603.8731,137.5,594.8731,133.5,598.8731,129.5,594.8731,133.5,603.8731" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[906a82dd4167c0136c166c8c95690d3a]
+link Court to Lawyer--><path d="M133.5,657.1931 C133.5,673.4531 133.5,694.5331 133.5,711.6631 " fill="none" id="Court-&gt;Lawyer" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="133.5,716.8431,137.5257,707.8546,133.5143,711.8431,129.5257,707.8317,133.5,716.8431" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[1ce5b989c8c86631269871e38dfec17b]
+link File to Collective--><path d="M267.92,316.1131 C285.28,331.4531 311.09,354.2631 331.66,372.4331 " fill="none" id="File-&gt;Collective" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="335.44,375.7731,331.3538,366.812,331.6967,372.4584,326.0502,372.8013,335.44,375.7731" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[3aec3891fe683d17bf32e2d6cf614421]
+link Citizen to Subscription--><path d="M275,107.0131 C287.47,124.9131 302.12,145.9531 313.76,162.6631 " fill="none" id="Citizen-&gt;Subscription" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="316.65,166.8231,314.7861,157.1522,313.7913,162.7209,308.2226,161.7261,316.65,166.8231" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[988b430d5a9f8305094284f673829b7f]
+link Subscription to File--><path d="M313.02,220.0531 C298.62,237.2231 279.88,259.5531 266.31,275.7231 " fill="none" id="Subscription-&gt;File" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="262.98,279.7031,271.8304,275.3822,266.195,275.8738,265.7034,270.2383,262.98,279.7031" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[9dcac6ccc2ca3a8f4a25a7aafa4907a0]
+@startuml
+title Από τον Πολίτη στον Οργανωμένο Φάκελο Άμυνας
+
+skinparam backgroundColor #FFFFFF
+skinparam shadowing false
+skinparam roundcorner 15
+skinparam defaultFontName DejaVu Sans
+
+actor "Πολίτης" as Citizen
+rectangle "Χαμηλή Είσοδος\n30€ - 50€" as Entry
+rectangle "Άνοιγμα Φακέλου" as File
+rectangle "Βασική Τεκμηρίωση\n150€ - 250€" as Basic
+rectangle "Πλήρης Μελέτη\n300€ - 500€" as Full
+rectangle "Ειδικός Δικαστικός Φάκελος\n700€+" as Court
+rectangle "Δικηγόρος\nΝομική Ευθύνη" as Lawyer
+rectangle "Συλλογική Δράση\nΠολλοί πολίτες - κοινό κόστος" as Collective
+rectangle "Συνδρομή\n10€ - 20€ / μήνα" as Subscription
+
+Citizen - -> Entry
+Entry - -> File
+File - -> Basic
+Basic - -> Full
+Full - -> Court
+Court - -> Lawyer
+
+File - -> Collective
+Citizen - -> Subscription
+Subscription - -> File
+
+note bottom of Lawyer
+Ο δικηγόρος δεν υποκαθίσταται.
+Αντίθετα, παίρνει οργανωμένο υλικό
+και κρατά την πλήρη νομική ευθύνη.
+end note
+
+note bottom of Collective
+Το μεγάλο οικονομικό ενδιαφέρον
+δεν είναι η ακριβή ατομική μελέτη,
+αλλά η μαζική οργάνωση φακέλων.
+end note
+
+@enduml
+
+PlantUML version 1.2020.02(Sun Mar 01 12:22:07 EET 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 17.0.18+8-Ubuntu-122.04.1
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: GB
+--></g></svg>
